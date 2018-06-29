@@ -8,7 +8,7 @@ Button + / Open existing PhoneGap project... / Select saqirsan folder.
 Luego inicializas el servidor y lo ejecutas desde tu navegar o un dispositivo movil mediante la ip generada
 
 ## Phonegap CLI
-Es necesario tener NodeJS.
+Es necesario tener el administrador de paquetes NPM.
 
 > sudo npm install -g phonegap-cli
 
