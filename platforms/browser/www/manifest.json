@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Saqisan",
+  "short_name": "Saqisan",
+  "version": "com.chris.saqirsan",
+  "description": "Ayuda medica para paciente psiquiatricos",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html",
+  "theme_color": "#2196f3"
+}
